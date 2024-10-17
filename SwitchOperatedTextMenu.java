@@ -16,7 +16,9 @@ public class SwitchOperatedTextMenu{
 			switch (menuItem) {
 			case 1:
 				System.out.println("You've chosen item #1");
-				// do something...
+				System.out.println("My name is Anne_Nfonga.");
+                                                                              // do something...
+
 				break;
 			case 2:
 				System.out.println("You've chosen item #2");
